@@ -11,4 +11,7 @@ The code as a whole is a complete character animation pipeline. Our job in this 
 
 
 ## Some Demos
-1. 
+1. Simulation with Damped Least Squares method:
+  [![](http://img.youtube.com/vi/Wtzs6BYJqIo/0.jpg)](http://www.youtube.com/watch?v=Wtzs6BYJqIo "IK with Damped Least Squares")
+2. Simulation with Pseudo Inverse method:
+   [![](http://img.youtube.com/vi/bKWI_KLOr10/0.jpg)](http://www.youtube.com/watch?v=bKWI_KLOr10 "IK with Pseudo Inverse")
