@@ -1,0 +1,10 @@
+.DS_Store
+*.o
+ADOLCExample
+EigenSolveExample
+driver
+vega/libpartialVega.a
+.vscode/
+csci520-assign3-tong-wang.zip
+csci520-assign3-tong-wang/
+*.mov
